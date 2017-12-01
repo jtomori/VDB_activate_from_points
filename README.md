@@ -1,2 +1,2 @@
-# VDB_activate_from_points
+# VDB activate from points
 HDK node using OpenVDB, testing and learning resource
