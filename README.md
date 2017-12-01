@@ -1,7 +1,7 @@
 VDB activate from points
 ========================
 
-A SOP node created in HDK which activates voxels in VDB volume at positions of input pointcloud.
+A SOP node created in HDK which activates voxels in VDB volume at positions of input pointcloud. You can check a [tutorial](https://jurajtomori.wordpress.com/2017/12/01/creating-simple-c-openvdb-node-in-hdkcreating-simple-c-openvdb-node-in-hdk/) I wrote about writhing this tool.
 
 Setup guide
 -----------
