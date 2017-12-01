@@ -31,7 +31,7 @@ $ hcustom -i build/ -e -L $HDSO -l openvdb_sesi src/vdb_activate_from_points.C
 ```
 
 - enable displaying of DSO errors (for debugging) and tell Houdini where to find the node, run Houdini and use the node :)
-``
+```
 $ export HOUDINI_DSO_ERROR=1
 $ export HOUDINI_DSO_PATH="/your_path/VDB_activate_from_points/build:&"
 $ houdini -foreground
