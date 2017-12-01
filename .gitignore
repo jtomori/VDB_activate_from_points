@@ -1,0 +1,5 @@
+# Compiled objects
+/build/
+/dso/
+*.DS_Store
+*.o
