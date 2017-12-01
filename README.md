@@ -18,7 +18,7 @@ $ cd /opt/hfs16.0.736
 $ source houdini_install
 ```
 
-##### 3. if g++ command in you environment refers to version different from Houdini one
+##### 3. if g++ command in your environment refers to version different from Houdini one
 ```
 $ export CC=/usr/bin/gcc-4.8
 $ export CXX=/usr/bin/g++-4.8
